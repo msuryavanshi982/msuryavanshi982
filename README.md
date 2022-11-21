@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rajputmeenakshi982@gmail.com**
 
-- 📄 Know about my experiences [rdg](rdg)
+- 📄 Know about my experiences [https://meenakshi-lodhi-portfolio.vercel.app/](rdg)
 
 - ⚡ Fun fact **I am too curious**
 
