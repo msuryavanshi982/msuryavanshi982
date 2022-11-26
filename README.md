@@ -24,6 +24,7 @@
 <a href="https://www.youtube.com/channel/UCaiLbF5E5w8xExg5Dfz7muA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucailbf5e5w8xexg5dfz7mua" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rajputmeenakshi982/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://www.leetcode.com/rajputmeenakshi982/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/rajputmeenmzj1/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/rajputmeenmzj1/profile" height="30" width="40" /></a>
+<a href="https://discord.gg/ku8veXe6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MEENAKSHI LODHI#5687" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
