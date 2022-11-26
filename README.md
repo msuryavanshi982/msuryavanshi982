@@ -17,7 +17,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/msuryavanshi982" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/msuryavanshi982" height="30" width="40" /></a>
 <a href="https://twitter.com/msuryavanshirp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="msuryavanshirp" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/meenakshi-lodhi-rajput%f0%9f%87%ae%f0%9f%87%b3-26227a237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/meenakshi-lodhi-rajput%f0%9f%87%ae%f0%9f%87%b3-26227a237/" height="30" width="40" /></a>
 <a href="https://medium.com/@rajputmeenakshi982" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rajputmeenakshi982" height="30" width="40" /></a>
@@ -25,7 +24,6 @@
 <a href="https://www.youtube.com/channel/UCaiLbF5E5w8xExg5Dfz7muA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucailbf5e5w8xexg5dfz7mua" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rajputmeenakshi982/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://www.leetcode.com/rajputmeenakshi982/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/rajputmeenmzj1/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/rajputmeenmzj1/profile" height="30" width="40" /></a>
-<a href="https://discord.gg/MEENAKSHI LODHI#5687" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MEENAKSHI LODHI#5687" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
