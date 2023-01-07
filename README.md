@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Technology**
 
-- 📫 How to reach me **rajputmeenakshi982@gmail.com**
+- 📫 How to reach me **https://www.youtube.com/channel/UCaiLbF5E5w8xExg5Dfz7muA**
 
 - 📄 Know about my experiences [https://yogita-coaching.vercel.app/](https://yogita-coaching.vercel.app/)
 
