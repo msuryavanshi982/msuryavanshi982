@@ -1,4 +1,3 @@
-![web](https://meenakshi-lodhi-portfolio.vercel.app/)
 <h1 align="center">Hi 👋, I'm MEENAKSHI LODHI RAJPUT</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
