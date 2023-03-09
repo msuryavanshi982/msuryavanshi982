@@ -1,8 +1,8 @@
+<h1 align="center">Hi 👋, I'm MEENAKSHI LODHI RAJPUT</h1>
+<h3 align="center">A passionate software developer from India</h3>
 ![yay](https://raw.githubusercontent.com/urbanisierung/urbanisierung/master/that-was-more-work-than-i-thought.svg)
 
 ⭐️ From [[programming-geek](https://www.youtube.com/channel/UCaiLbF5E5w8xExg5Dfz7muA)]
-<h1 align="center">Hi 👋, I'm MEENAKSHI LODHI RAJPUT</h1>
-<h3 align="center">A passionate software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msuryavanshi982&label=Profile%20views&color=0e75b6&style=flat" alt="msuryavanshi982" /> </p>
 
