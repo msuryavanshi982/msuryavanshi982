@@ -26,8 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/msuryavanshirp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="msuryavanshirp" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/meenakshi lodhi rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meenakshi lodhi rajput" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucailbf5e5w8xexg5dfz7mua" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucailbf5e5w8xexg5dfz7mua" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/meenakshilodhirajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/meenakshilodhirajput" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rajputmeenakshi982" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rajputmeenakshi982" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rajputmeenakshi982" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajputmeenakshi982" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rajputmeenmzj1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rajputmeenmzj1" height="30" width="40" /></a>
@@ -42,4 +41,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msuryavanshi982&show_icons=true&locale=en" alt="msuryavanshi982" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msuryavanshi982&" alt="msuryavanshi982" /></p>
-
