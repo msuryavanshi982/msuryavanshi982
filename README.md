@@ -13,13 +13,11 @@
 
 - 🌱 I’m currently learning **React JS & Data Structure & Algorithm**
 
-- 👨‍💻 All of my projects are available at [https://meenakshi-lodhi-portfolio.vercel.app/](https://meenakshi-lodhi-portfolio.vercel.app/)
+- 👨‍💻 My portfolio: [https://meenakshi-lodhi-portfolio.vercel.app/](https://meenakshi-lodhi-portfolio.vercel.app/)
 
 - 💬 Ask me about **Technology**
 
 - 📫 How to reach me **rajputmeenakshi982@gmail.com**
-
-- 📄 Know about my experiences [https://yogita-coaching.vercel.app/](https://yogita-coaching.vercel.app/)
 
 - ⚡ Fun fact **I am too curious**
 
