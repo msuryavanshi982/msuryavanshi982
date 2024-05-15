@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **React JS & Data Structure & Algorithm**
 
-- 👨‍💻 My portfolio: [https://meenakshi-lodhi-portfolio.vercel.app/](https://meenakshi-lodhi-portfolio.vercel.app/)
+- 👨‍💻 My portfolio: [https://www.polywork.com/meenakshi_lodhir](https://www.polywork.com/meenakshi_lodhir)
 
 - 💬 Ask me about **Technology**
 
