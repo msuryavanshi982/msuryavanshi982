@@ -1,5 +1,7 @@
+[![@msuryavanshi982's Holopin board](https://holopin.io/api/user/board?user=msuryavanshi982)](https://holopin.io/@msuryavanshi982)
+
 <h1 align="center">Hi 👋, I'm MEENAKSHI LODHI RAJPUT</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate Tech Mentor from India</h3>
 
 ⭐️ From [[programming-geek](https://www.youtube.com/channel/UCaiLbF5E5w8xExg5Dfz7muA)]
 
