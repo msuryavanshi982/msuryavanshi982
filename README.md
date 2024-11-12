@@ -1,27 +1,57 @@
+<p align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=FF5733&center=true&width=500&lines=Hello+there!+I'm+Meenakshi+Lodhi+Rajput;Passionate+Tech+Mentor;Fullstack+Developer+and+Writer;Welcome+to+my+GitHub+Profile+😊" alt="Typing SVG" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<h2 align="center">🔰 Hacktoberfest 2024 Badges 🔰</h2>
+
 [![@msuryavanshi982's Holopin board](https://holopin.io/api/user/board?user=msuryavanshi982)](https://holopin.io/@msuryavanshi982)
 
-<h1 align="center">Hi 👋, I'm MEENAKSHI LODHI RAJPUT</h1>
-<h3 align="center">A passionate Tech Mentor from India</h3>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-⭐️ From [[programming-geek](https://www.youtube.com/channel/UCaiLbF5E5w8xExg5Dfz7muA)]
+<h2 align="center">🔰 GSSoC'24 Badges 🔰</h2>
+
+![Picture1-removebg-preview](https://github.com/user-attachments/assets/4ece96a5-043a-44df-b51b-40738d3603ff)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+<h2 align="center">🔰 Github Trophies 🔰</h2>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=msuryavanshi982&theme=dracula&margin-w=20&margin-h=15&row=1&column=8&no-bg=false&no-frame=false" alt="msuryavanshi982" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> 
+
+<h2 align="center">💫 About Me 💫</h2>
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
+
+- 🔭 &nbsp; **Tech Mentor & DSA Trainer** at [PST 🌐](https://polariscampus.com/)
+- 🌱 &nbsp; I’m currently learning React | ☕ Java | ☁️ AWS EC2 | 🌐 AI ML
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com//msuryavanshi982?tab=repositories)
+- 🎨 &nbsp; Checkout my article [Medium](https://medium.com/@rajputmeenakshi982) 👉
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/meenakshilodhirajput/)
+- 📝 &nbsp; Checkout my [My Resume]()
+- 🤖 &nbsp; When I am free, I love exploring Exploring AI projects with 🤗 Hugging Face
+- 🛠️ &nbsp; Tech Stack: Node.js, Express.js, MongoDB, TypeScript, React.js
+- 🌐 &nbsp; Check out my [personal Portfolio Website](https://www.polywork.com/meenakshi_lodhir) for more details
+- 🚀 &nbsp; Open to working on exciting open-source projects and innovative startups
+- 📫 How to reach me **rajputmeenakshi982@gmail.com**
+- ⚡ Fun fact **I am too curious**
+
+⭐️ From [programming-geek](https://www.youtube.com/channel/UCaiLbF5E5w8xExg5Dfz7muA)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msuryavanshi982&label=Profile%20views&color=0e75b6&style=flat" alt="msuryavanshi982" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msuryavanshi982" alt="msuryavanshi982" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/msuryavanshirp" target="blank"><img src="https://img.shields.io/twitter/follow/msuryavanshirp?logo=twitter&style=for-the-badge" alt="msuryavanshirp" /></a> </p>
 
-- 🔭 I’m currently working on **Fullstack Development Projects**
 
-- 🌱 I’m currently learning **React JS & Data Structure & Algorithm**
-
-- 👨‍💻 My portfolio: [https://www.polywork.com/meenakshi_lodhir](https://www.polywork.com/meenakshi_lodhir)
-
-- 💬 Ask me about **Technology**
-
-- 📫 How to reach me **rajputmeenakshi982@gmail.com**
-
-- ⚡ Fun fact **I am too curious**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
