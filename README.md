@@ -40,7 +40,7 @@
 - 📝 &nbsp; Checkout my [My Resume](https://drive.google.com/file/d/152hRDqQd4HAm1jeFZNQNLI3DvHDmRrii/view?usp=sharing)
 - 🤖 &nbsp; When I am free, I love exploring Exploring AI projects with 🤗 Hugging Face
 - 🛠️ &nbsp; Tech Stack: Node.js, Express.js, MongoDB, TypeScript, React.js
-- 🌐 &nbsp; Check out my [personal Portfolio Website](https://www.polywork.com/meenakshi_lodhir) for more details
+- 🌐 &nbsp; Check out my [personal Portfolio Website]([https://www.polywork.com/meenakshi_lodhir](https://meenakshi-portfolio-showcase.lovable.app/)) for more details
 - 🚀 &nbsp; Open to working on exciting open-source projects and innovative startups
 - 📫 How to reach me **rajputmeenakshi982@gmail.com**
 - ⚡ Fun fact **I am too curious**
