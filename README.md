@@ -32,12 +32,12 @@
 
 
 - 🔭 &nbsp; **Tech Mentor & DSA Trainer** at [PST 🌐](https://polariscampus.com/)
-- 🌱 &nbsp; I’m currently learning React | ☕ Java | ☁️ AWS EC2 | 🌐 AI ML
+- 🌱 &nbsp; I’m currently learning Gen AI | ☕ Java | ☁️ AWS EC2 | 🌐 AI ML
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com//msuryavanshi982?tab=repositories)
 - 🎨 &nbsp; Checkout my article [Medium](https://medium.com/@rajputmeenakshi982) 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/meenakshilodhirajput/)
-- 📝 &nbsp; Checkout my [My Resume]()
+- 📝 &nbsp; Checkout my [My Resume](https://drive.google.com/file/d/152hRDqQd4HAm1jeFZNQNLI3DvHDmRrii/view?usp=sharing)
 - 🤖 &nbsp; When I am free, I love exploring Exploring AI projects with 🤗 Hugging Face
 - 🛠️ &nbsp; Tech Stack: Node.js, Express.js, MongoDB, TypeScript, React.js
 - 🌐 &nbsp; Check out my [personal Portfolio Website](https://www.polywork.com/meenakshi_lodhir) for more details
