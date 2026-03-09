@@ -34,13 +34,13 @@
 - 🔭 &nbsp; **Tech Mentor & DSA Trainer** at [PST 🌐](https://polariscampus.com/)
 - 🌱 &nbsp; I’m currently learning Gen AI | ☕ Java | ☁️ AWS EC2 | 🌐 AI ML
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com//msuryavanshi982?tab=repositories)
-- 🎨 &nbsp; Checkout my article [Medium](https://medium.com/@rajputmeenakshi982) 👉
+- 🎨 &nbsp; Checkout my article [Medium]👉(https://medium.com/@rajputmeenakshi982) 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/meenakshilodhirajput/)
 - 📝 &nbsp; Checkout my [My Resume](https://drive.google.com/file/d/152hRDqQd4HAm1jeFZNQNLI3DvHDmRrii/view?usp=sharing)
 - 🤖 &nbsp; When I am free, I love exploring Exploring AI projects with 🤗 Hugging Face
 - 🛠️ &nbsp; Tech Stack: Node.js, Express.js, MongoDB, TypeScript, React.js
-- 🌐 &nbsp; Check out my [personal Portfolio Website]([https://www.polywork.com/meenakshi_lodhir](https://meenakshi-portfolio-showcase.lovable.app/)) for more details
+- 🌐 &nbsp; Check out my [personal Portfolio Website](https://www.polywork.com/meenakshi_lodhir](https://meenakshi-portfolio-showcase.lovable.app/) for more details
 - 🚀 &nbsp; Open to working on exciting open-source projects and innovative startups
 - 📫 How to reach me **rajputmeenakshi982@gmail.com**
 - ⚡ Fun fact **I am too curious**
