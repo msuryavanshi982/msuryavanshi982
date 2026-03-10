@@ -16,15 +16,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-<h2 align="center">🔰 Github Trophies 🔰</h2>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=msuryavanshi982&theme=dracula&margin-w=20&margin-h=15&row=1&column=8&no-bg=false&no-frame=false" alt="msuryavanshi982" />
-  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> 
 
 <h2 align="center">💫 About Me 💫</h2>
 
