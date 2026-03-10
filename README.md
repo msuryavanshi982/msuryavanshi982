@@ -62,32 +62,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msuryavanshi982&" alt="msuryavanshi982" /></p>
 
-<h2 align="center">📊 GitHub Stats 📊</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="50" />
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="50" />
-  <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="50" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulgithub-web&theme=monokai" alt="GitHub Profile Summary"/>
-</p>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulgithub-web&theme=onedark&show_icons=true&locale=en&layout=compact" alt="rahulgithub-web" />
-      </td>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulgithub-web&theme=onedark&show_icons=true&locale=en" alt="rahulgithub-web" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
-</p>
-
