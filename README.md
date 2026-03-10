@@ -50,7 +50,7 @@
 <a href="https://linkedin.com/in/meenakshilodhirajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meenakshilodhirajput" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rajputmeenakshi982" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajputmeenakshi982" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/rajputmeenmzj1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rajputmeenmzj1" height="30" width="40" /></a>
-<a href="https://youtube.gg/#5687](https://www.youtube.com/@programming-geek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="#5687" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@programming-geek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="#5687" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
