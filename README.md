@@ -10,6 +10,17 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
+## 🧠 LeetCode Achievements
+
+<p align="left">
+  <img src="badge1.gif" width="90"/>
+  <img src="badge2.gif" width="90"/>
+  <img src="badge3.gif" width="90"/>
+  <img src="badge4.gif" width="90"/>
+  <img src="badge5.gif" width="90"/>
+</p>
+
+
 <p align="left">
   <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="100">
   <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="100">
