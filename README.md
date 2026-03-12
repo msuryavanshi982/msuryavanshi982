@@ -4,20 +4,13 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-<h2 align="center">🔰 Hacktoberfest 2024 Badges & 🧠 LeetCode Achievements 🔰</h2>
-
-[![@msuryavanshi982's Holopin board](https://holopin.io/api/user/board?user=msuryavanshi982)](https://holopin.io/@msuryavanshi982)
+<h2 align="center">🔰 🧠 LeetCode Achievements 🔰</h2>
 
 <p align="left">
-   
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-[![@msuryavanshi982's Holopin board](https://holopin.io/api/user/board?user=msuryavanshi982)](https://holopin.io/@msuryavanshi982)
 <img src="https://leetcode.com/static/images/badges/2022/gif/2022-11.gif" width="100">
     <img src="https://assets.leetcode.com/static_assets/marketing/1.gif" width="100">
    <img src="https://assets.leetcode.com/static_assets/marketing/2.gif" width="100">
-  <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="100">
- 
+  <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="100"> 
 </p>
 
 <h2 align="center">🔰 GSSoC'24 Badges 🔰</h2>
@@ -26,6 +19,11 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
+<h2 align="center">🔰 Hacktoberfest 2024 Badges 🔰</h2>
+
+[![@msuryavanshi982's Holopin board](https://holopin.io/api/user/board?user=msuryavanshi982)](https://holopin.io/@msuryavanshi982)
+
+ <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <h2 align="center">💫 About Me 💫</h2>
 
