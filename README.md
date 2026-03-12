@@ -10,6 +10,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="10%">
+<img src="https://assets.leetcode.com/static_assets/others/50.gif" width="10%">
 
 <h2 align="center">🔰 GSSoC'24 Badges 🔰</h2>
 
