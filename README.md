@@ -15,6 +15,7 @@
 <p align="left">
   <img src="https://leetcode.com/static/images/badges/2022/gif/2022-11.gif" width="100">
     <img src="https://assets.leetcode.com/static_assets/marketing/1.gif" width="100">
+   <img src="https://assets.leetcode.com/static_assets/marketing/2.gif" width="100">
   <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="100">
 </p>
 
