@@ -4,6 +4,12 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
+<h2 align="center">🔰 Hacktoberfest 2024 Badges 🔰</h2>
+
+[![@msuryavanshi982's Holopin board](https://holopin.io/api/user/board?user=msuryavanshi982)](https://holopin.io/@msuryavanshi982)
+
+ <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 <h2 align="center">🔰 🧠 LeetCode Achievements 🔰</h2>
 
 <p align="left">
@@ -18,12 +24,6 @@
 ![Picture1-removebg-preview](https://github.com/user-attachments/assets/4ece96a5-043a-44df-b51b-40738d3603ff)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-<h2 align="center">🔰 Hacktoberfest 2024 Badges 🔰</h2>
-
-[![@msuryavanshi982's Holopin board](https://holopin.io/api/user/board?user=msuryavanshi982)](https://holopin.io/@msuryavanshi982)
-
- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <h2 align="center">💫 About Me 💫</h2>
 
