@@ -36,7 +36,7 @@
 - 🎨 &nbsp; Checkout my article [Medium]👉(https://medium.com/@rajputmeenakshi982) 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/meenakshilodhirajput/)
-- 📝 &nbsp; Checkout my [My Resume](https://drive.google.com/file/d/152hRDqQd4HAm1jeFZNQNLI3DvHDmRrii/view?usp=sharing)
+- 📝 &nbsp; Checkout my [My Resume](https://drive.google.com/file/d/1mR5mab9o0jxkHA43-N81thgUy4fZfuPY/view?usp=drivesdk)
 - 🤖 &nbsp; When I am free, I love exploring Exploring AI projects with 🤗 Hugging Face
 - 🛠️ &nbsp; Tech Stack: Node.js, Express.js, MongoDB, TypeScript, React.js
 - 🌐 &nbsp; Check out my [personal Portfolio Website](https://meenakshi-portfolio-showcase.lovable.app/)] for more details
